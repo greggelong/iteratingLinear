@@ -9,3 +9,4 @@ In this visualization I am showing the four main types of fixed points:
 - repelling or unstable with oscillations m < -1
 
 
+https://greggelong.github.io/iteratingLinear

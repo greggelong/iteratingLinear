@@ -71,6 +71,7 @@ function draw() {
   plotaxis();
   fill(0,255,0)
   strokeWeight(1);
+  stroke(0);
   textSize(20)
   text(descrip,-width/2+10,-height/2+20)
   plotfun(color(0,255,0));
